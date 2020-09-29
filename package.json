@@ -60,7 +60,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "clang-format": "^1.0.37",
-    "eslint": "^2.4.0",
+    "eslint": "^7.10.0",
     "exists-sync": "0.0.3",
     "glob": "^7.0.3",
     "minimatch": "^3.0.0",
